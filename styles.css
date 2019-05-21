@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+
+div .img_container {
+    height: 79px;
+    width: 108px;
+    border: solid 1px #ccc;
+}
+
+#thumbs {
+    display: flex;
+}
+.img_container_big {
+    height: 412px;
+    width: 692px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-height:100%
+}
